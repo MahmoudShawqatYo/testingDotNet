@@ -1,0 +1,15 @@
+/workspaces/testingDotNet/DotNetSimpleApp/bin/Debug/net8.0/DotNetSimpleApp
+/workspaces/testingDotNet/DotNetSimpleApp/bin/Debug/net8.0/DotNetSimpleApp.deps.json
+/workspaces/testingDotNet/DotNetSimpleApp/bin/Debug/net8.0/DotNetSimpleApp.runtimeconfig.json
+/workspaces/testingDotNet/DotNetSimpleApp/bin/Debug/net8.0/DotNetSimpleApp.dll
+/workspaces/testingDotNet/DotNetSimpleApp/bin/Debug/net8.0/DotNetSimpleApp.pdb
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.AssemblyInfoInputs.cache
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.AssemblyInfo.cs
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.csproj.CoreCompileInputs.cache
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.sourcelink.json
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.dll
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/refint/DotNetSimpleApp.dll
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.pdb
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/DotNetSimpleApp.genruntimeconfig.cache
+/workspaces/testingDotNet/DotNetSimpleApp/obj/Debug/net8.0/ref/DotNetSimpleApp.dll
